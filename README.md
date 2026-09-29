@@ -139,11 +139,40 @@ VLAN & Switchport Configuration F4-SW (SRV):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1790664664442-e9c656e5-728d-4003-b0d7-e005211f9c5d.png" alt="Switchport Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (F1-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788522797598-e20a9c94-0508-4b2a-91c9-c9a7b4dc62f4.png" alt="Router Subinterface Config" />
-<img src="https://www.image2url.com/r2/default/images/1788523016959-472e6307-fcda-473f-b3c7-08bd3f4e82d4.png" alt="Router Subinterface Config" />
-<img src="https://www.image2url.com/r2/default/images/1788523467528-9c28b4a8-0fae-4a1c-8cb0-eebfb7ba1a23.png" alt="Router Subinterface Config" />
-<img src="https://www.image2url.com/r2/default/images/1788523596875-0bafd94a-3013-4b9f-9b64-eea522fd0dd6.png" alt="Router Subinterface Config" />
+Server Configuration:  <br/>
+<br />
+<img src="https://www.image2url.com/r2/default/images/1790694624925-2e421300-b808-4e89-9ef8-fc8cb7171ce5.png" alt="SRV Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790695088656-c0222b22-9321-4dee-983a-bd024dec3b55.png" alt="SRV Configuration" />
+<br />
+<br />
+Switchport Configuration F1-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790695319409-9d79baad-c2ed-40dc-92cf-492243dfeea6.png" alt="MLS Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790696429398-4e095c47-08af-4b3f-b165-3b614f79c9e9.png" alt="IP Routing & No Switchport" />
+<img src="https://www.image2url.com/r2/default/images/1790696622742-f26005ac-0178-41d3-b8ea-89030c2d158a.png" alt="Static IP Address" />
+<br />
+<br />
+Switchport Configuration F2-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790695534042-b7dfcb61-7e51-45ec-bbca-e8c70dc6e720.png" alt="MLS Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790696767656-369caf82-70da-4103-95ed-9707d5ace4c8.png" alt="IP Routing, No Switchport & Static Addressing" />
+<br />
+<br />
+Router Configuration (F1-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790697679955-c5cc3c04-a06a-4aec-ab95-f84803edf13f.png" alt="IP Addressing" />
+<img src="https://www.image2url.com/r2/default/images/1790697974917-cd579312-e89e-47f5-bae5-95288f7fd6b5.png" alt="Clock Rate Check" />
+<img src="https://www.image2url.com/r2/default/images/1790698274281-b2d0ef49-f0f0-46ea-9dc2-d3ff082c9b39.png" alt="Clock Rate Set" />
+Switchport Configuration F3-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790695739727-e7a0ae82-2681-4ef5-8729-fd7dbe953624.png" alt="MLS Configuration" />
+<br />
+<br />
+Switchport Configuration F3-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790695941371-2dad9bea-63a4-426f-b4ad-412c18d80e74.png" alt="MLS Configuration" />
+<br />
+<br />
 <img src="https://www.image2url.com/r2/default/images/1788523754262-718ce0f2-efe0-4841-91ee-4562291f4fb4.png" alt="Router Subinterface Config" />
 <br />
 <br />
