@@ -163,7 +163,34 @@ Router Configuration (F1-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1790697679955-c5cc3c04-a06a-4aec-ab95-f84803edf13f.png" alt="IP Addressing" />
 <img src="https://www.image2url.com/r2/default/images/1790697974917-cd579312-e89e-47f5-bae5-95288f7fd6b5.png" alt="Clock Rate Check" />
 <img src="https://www.image2url.com/r2/default/images/1790698274281-b2d0ef49-f0f0-46ea-9dc2-d3ff082c9b39.png" alt="Clock Rate Set" />
-Switchport Configuration F3-MLS:  <br/>
+<img src="https://www.image2url.com/r2/default/images/1790753608197-8cd7259b-8af3-4389-b187-d419b4d8b0d8.png" alt="IP Validation Check & Interface No Shut" />
+<img src="https://www.image2url.com/r2/default/images/1790754322060-01440d80-7b9e-4a63-93e8-bfa19cd89379.png" alt="Interface No Shut" />
+<br />
+<br />
+Router Configuration (F2-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790698703501-84b735f3-d7a7-41a7-a912-960db47d7b11.png" alt="IP Addressing" />
+<img src="https://www.image2url.com/r2/default/images/1790751796226-a9093880-a010-43c7-8666-9385c8e341f5.png" alt="Clock Rate Check" />
+<img src="https://www.image2url.com/r2/default/images/1790752001322-aacb86fc-a77e-4314-93bf-874ab50ed864.png" alt="Clock Rate Set" />
+<img src="https://www.image2url.com/r2/default/images/1790752102196-8be87ca6-7c67-49e9-a448-9b8872e0dacd.png" alt="Clock Rate Set" />
+<img src="https://www.image2url.com/r2/default/images/1790752562321-f9eb06b9-ee70-488f-bf89-d83b4fc4fb28.png" alt="IP Validation Check" />
+<img src="https://www.image2url.com/r2/default/images/1790752954957-b441d7ab-273f-435e-bbf7-d661a63c7394.png" alt="Interface No Shut" />
+<br />
+<br />
+Router Configuration (F3-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790754544856-86c7f497-a2cc-4d41-86d6-99b2083ccea6.png" alt="IP Addressing" />
+<br />
+<br />
+Router Configuration (F4-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790755017806-089ab2f3-c086-4fce-bf11-05fb88c5b1d7.png" alt="IP Addressing" />
+<img src="https://www.image2url.com/r2/default/images/1790755179058-33378b86-f67a-4910-90ef-c1503bc09f9e.png" alt="Clock Rate Check" />
+<img src="https://www.image2url.com/r2/default/images/1790755280428-7556e20c-53fb-4e72-b189-96d3790e5362.png" alt="Clock Rate Set" />
+<img src="https://www.image2url.com/r2/default/images/1790755373473-667f3c3d-9c5b-4b7c-b093-707eed39bc6e.png" alt="IP Addressing" />
+<br />
+<br />
+Switchport & IP Configuration F3-MLS:  <br/>
 <br/>
 <img src="https://www.image2url.com/r2/default/images/1790695739727-e7a0ae82-2681-4ef5-8729-fd7dbe953624.png" alt="MLS Configuration" />
 <br />
