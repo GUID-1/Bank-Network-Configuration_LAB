@@ -180,6 +180,7 @@ Router Configuration (F2-Router):  <br/>
 Router Configuration (F3-Router):  <br/>
 <br/>
 <img src="https://www.image2url.com/r2/default/images/1790754544856-86c7f497-a2cc-4d41-86d6-99b2083ccea6.png" alt="IP Addressing" />
+<img src="https://www.image2url.com/r2/default/images/1790756199023-4012dd9a-768b-487f-9092-788eafacbf69.png" alt="Interface No Shut" />
 <br />
 <br />
 Router Configuration (F4-Router):  <br/>
@@ -188,64 +189,114 @@ Router Configuration (F4-Router):  <br/>
 <img src="https://www.image2url.com/r2/default/images/1790755179058-33378b86-f67a-4910-90ef-c1503bc09f9e.png" alt="Clock Rate Check" />
 <img src="https://www.image2url.com/r2/default/images/1790755280428-7556e20c-53fb-4e72-b189-96d3790e5362.png" alt="Clock Rate Set" />
 <img src="https://www.image2url.com/r2/default/images/1790755373473-667f3c3d-9c5b-4b7c-b093-707eed39bc6e.png" alt="IP Addressing" />
+<img src="https://www.image2url.com/r2/default/images/1790756359521-ee99a5d1-28ee-400f-a757-348e9439e257.png" alt="Interface No Shut" />
 <br />
 <br />
 Switchport & IP Configuration F3-MLS:  <br/>
 <br/>
-<img src="https://www.image2url.com/r2/default/images/1790695739727-e7a0ae82-2681-4ef5-8729-fd7dbe953624.png" alt="MLS Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790755518159-1fae127e-bd82-44b4-a3c9-e7eb4f382e3e.png" alt="MLS Configuration" />
 <br />
 <br />
-Switchport Configuration F3-MLS:  <br/>
+Switchport & IP Configuration F4-MLS:  <br/>
 <br/>
-<img src="https://www.image2url.com/r2/default/images/1790695941371-2dad9bea-63a4-426f-b4ad-412c18d80e74.png" alt="MLS Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790755933866-5b4bfab5-b2ae-4302-a783-33228b7e5e99.png" alt="MLS Configuration" />
 <br />
 <br />
-<img src="https://www.image2url.com/r2/default/images/1788523754262-718ce0f2-efe0-4841-91ee-4562291f4fb4.png" alt="Router Subinterface Config" />
+Interface Vlan Configuration F1-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790767127868-6067a685-448a-4536-9b5f-caeee7075b61.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790767415093-86c5460e-83d7-44fa-a40c-e6389fc2d67a.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790767478781-db5de25a-d972-407a-a82f-153af721a1d1.png" alt="Interface Vlan Configuration" />
 <br />
 <br />
-Router DHCP Configuration (F2-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788524144294-73aac06c-0b05-4b2d-95d8-328e188f1028.png" alt="Router DHCP Config" />
-<img src="https://www.image2url.com/r2/default/images/1788524337765-38c7d819-8d16-4f0a-b03c-38da20dfadcd.png" alt="Router DHCP Config" />
+Interface Vlan Configuration F2-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790776148391-e6255b62-fccb-41ba-9bc2-7cb3837754f9.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790776220343-4eaddf81-3945-43e5-a8e7-de717201db2a.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790776476161-bbee8fca-98df-495a-9b56-d3a38919dda8.png" alt="Interface Vlan Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (F2-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788524546175-9586d171-01a0-4d38-88e7-7159369a8a41.png" alt="Router Subinterface Config" />
+Interface Vlan Configuration F3-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790776595804-69139d80-b34e-4090-9ff4-39fcdd287996.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790776880854-6888a715-ffc8-48aa-ab2f-b53864acedab.png" alt="Interface Vlan Configuration" />
 <br />
 <br />
-Router DHCP Configuration (F3-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788525025166-1ffc48f1-2841-420a-b31a-178da640674d.png" alt="Router DHCP Config" />
-<img src="https://www.image2url.com/r2/default/images/1788525111618-195fb975-0f50-4feb-b0d0-a0463438b9f4.png" alt="Router DHCP Config" />
+Interface Vlan Configuration F4-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790777015174-ca4c1d4d-b833-4551-bede-f6ebbf40e9f3.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790777082996-ec31a3af-92c3-46b8-bd66-e02a561e371c.png" alt="Interface Vlan Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790777150097-dfed2641-65b5-4c83-971f-2b3993b132e1.png" alt="Interface Vlan Configuration" />
 <br />
 <br />
-Router Subinterface Configuration (F3-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788525628465-031994f1-b11b-4831-80ce-88081154524c.png" alt="Router Subinterface Config" />
-<img src="https://www.image2url.com/r2/default/images/1788525706952-7429f76b-444f-4270-af92-0716ab2e240b.png" alt="Router Subinterface Config" />
+DHCP-POOL Configuration (DHCP SRV):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790835185944-cbab0344-84df-4298-b6c6-ca406576ec1e.png" alt="DHCP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790835622774-ad3be878-8ee8-4db3-8c06-18c1a5d620aa.png" alt="DHCP Configuration" />
 <br />
 <br />
-Router IP Addressing (F1-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788526188221-31a4771c-c9a3-4f01-947b-41e9c3effe9e.png" alt="Router IP Addressing" />
+DNS Configuration (DNS SRV):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790841255236-135928f8-eacc-4d5b-8dd4-c69fb7023947.png" alt="DNS Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790841336160-910f09b9-49c5-4176-b509-a57afb551ad2.png" alt="DNS Configuration" />
+<br />
+<br /> 
+Routing Protocol Configuration F1-MLS:  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790777227292-e3b2107c-4a65-4c96-a563-e6e1572c4085.png" alt="EIGRP Configuration" />
 <br />
 <br />
-Router IP Addressing (F2-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788526734766-34a51a29-4810-4662-a310-31ddefffc64e.png" alt="Router IP Addressing" />
+Routing Protocol Configuration F2-MLS:  <br/> 
+<br/> 
+<img src="https://www.image2url.com/r2/default/images/1790836419842-fb411adb-0306-4898-a824-6ce42d171b50.png" alt="EIGRP Configuration" />
 <br />
 <br />
-Router IP Addressing (F3-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788526470395-2fd86980-b19b-42b1-8b4d-79c2b0f7dace.png" alt="Router IP Addressing" />
+Routing Protocol Configuration (F1-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790836509645-6723c9bd-12b5-4491-8e22-ffc43e3f0c78.png" alt="EIGRP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790836647718-55c1776e-5f6f-465d-b998-73a201ae6835.png" alt="EIGRP Configuration" />
 <br />
 <br />
-Router Routing Protocol Configuration (F1-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788527378785-352bd330-8bc4-4052-9131-d88668c10152.png" alt="Routing Protocol Config" />
+Routing Protocol Configuration (F4-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790836821494-6a237b4e-462b-463d-aa75-5f8062f4d7ef.png" alt="EIGRP Configuration" /> 
 <br />
 <br />
-Router Routing Protocol Configuration (F2-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788527741375-0c9df51c-730e-40ac-a20f-5b53fa1842aa.png" alt="Routing Protocol Config" />
+Routing Protocol Configuration (F2-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790837353663-627d0aaf-593a-44c7-8d73-9630048aab11.png" alt="EIGRP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790837866769-744d1b31-aee8-400c-a152-b37caf703c08.png" alt="EIGRP Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790838010682-773c3dfe-814c-4332-84d1-5dd37d4873d2.png" alt="Trouble-Shooting" />
+- Wrong networks configured were remedied by removing sed networks by prefixing the "NETWORK" command with the word "NO"
 <br />
 <br />
-Router Routing Protocol Configuration (F3-Router):  <br/>
-<img src="https://www.image2url.com/r2/default/images/1788527596136-89fb6d10-c509-45fd-a70e-fdccd3be303e.png" alt="Routing Protocol Config" />
+Routing Protocol Configuration (F3-Router):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790838281587-4393f7fd-4e4b-4532-a732-a42cf9295dbf.png" alt="EIGRP Configuration" />
 <br />
 <br />
+Routing Protocol Configuration (F3-MLS):  <br/> 
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790838398200-306ab350-f626-49b3-ac6d-61cfef86a55d.png" alt="EIGRP Configuration" />
+<br />
+<br />
+Routing Protocol Configuration (F4-MLS):  <br/> 
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790838652076-52e882f6-3e4b-48c0-8e44-246f67be4586.png" alt="EIGRP Configuration" />
+<br />
+<br />
+IP DHCP-HELPER ADDRESS (F1-MLS & F2-MLS):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790839766888-5c23dfa5-bde1-4e0b-96bc-5157f316cce0.png" alt="IP Helper-Address Configuration" />
+<br />
+<br />
+IP DHCP-HELPER ADDRESS (F3-MLS & F4-MLS):  <br/>
+<br/>
+<img src="https://www.image2url.com/r2/default/images/1790840435303-dce1f831-5b23-4c02-8b03-e4a42cc8067d.png" alt="IP Helper-Address Configuration" />
+<img src="https://www.image2url.com/r2/default/images/1790840566065-7c0f5d12-fc25-45a4-be93-4d6bdc120eae.png" alt="IP Helper-Address Configuration" /> 
+<br />
+<br />
+
 
 ### Objective
 
